@@ -1,11 +1,8 @@
 # Praktikum 2
 
 ## Flowchart
-<p align="left">
-  <img src="/ss/latihan1.jpg" width="700">  
-</p>
 
-
+![Alt text](Flowchartlabspy02.png)
 
 ## Kode Program
 
