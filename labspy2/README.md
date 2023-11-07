@@ -2,7 +2,7 @@
 
 ## Flowchart
 
-![Alt text](Flowchartlabspy02.png)
+![alt text](https://github.com/Raditraikh/praktikum7/blob/master/labspy2/flowchrt.JPG?raw=true)
 
 ## Kode Program
 
@@ -28,5 +28,5 @@ print("Bilangan terbesar adalah:", terbesar)
 
 ## Maka Outputnya Adalah :
 
-<img src="">
+![alt text](https://github.com/Raditraikh/praktikum7/blob/master/labspy2/hlabs2.JPG?raw=true)
 
