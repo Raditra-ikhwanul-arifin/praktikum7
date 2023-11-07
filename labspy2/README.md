@@ -2,7 +2,7 @@
 
 ## Flowchart
 
-<img src="">
+<img src="labspy2/flowchrt.JPG">
 
 ## Kode Program
 
